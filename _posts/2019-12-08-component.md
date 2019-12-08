@@ -6,7 +6,7 @@ categories: Vue.js
 
 ## 전역 컴포넌트
 
-![global-conponent](Nutsiper.github.io/assets/images/global-component.png)
+![global-conponent](../assets/images/global-component.png)
 
 
 ## 지역 컴포넌트
