@@ -6,11 +6,11 @@ categories: Vue.js
 
 ## 전역 컴포넌트
 
-![global-conponent](../assets/images/global-component.png)
+![global-conponent](/assets/images/global-component.png)
 
 
 ## 지역 컴포넌트
-![local-conponent](../assets/images/local-component.png)
+![local-conponent](/assets/images/local-component.png)
 ```
 작성중-
 ```
